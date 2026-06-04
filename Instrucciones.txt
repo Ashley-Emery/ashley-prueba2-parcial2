@@ -1,0 +1,60 @@
+Formato de output:
+
+GESTOR DE TAREAS
+====================
+1. Agregar tarea
+2. Mostrar tareas
+3. Completar tarea
+4. Salir
+Selecciona una opción: 1
+Ingresa la nueva tarea: Hacer la prueba
+
+✓ Tarea agregada: Hacer la prueba
+
+GESTOR DE TAREAS 
+==================== 
+1. Agregar tarea 
+2. Mostrar tareas 
+3. Completar tarea 
+4. Salir  
+Selecciona una opción: 1
+Ingresa la nueva tarea: Hacer ejercicio
+
+✓ Tarea agregada: Hacer ejercicio
+
+GESTOR DE TAREAS 
+==================== 
+1. Agregar tarea 
+2. Mostrar tareas 
+3. Completar tarea 
+4. Salir  
+Selecciona una opción: 2
+
+LISTA DE TAREAS
+====================
+1. [ ] Hacer la prueba
+2. [ ] Hacer ejercicio
+
+GESTOR DE TAREAS 
+==================== 
+1. Agregar tarea 
+2. Mostrar tareas 
+3. Completar tarea 
+4. Salir  
+Selecciona una opción: 3
+Número de tarea a completar: 1
+
+✓ Tarea #1 completada: Hacer la prueba  
+
+GESTOR DE TAREAS 
+==================== 
+1. Agregar tarea 
+2. Mostrar tareas 
+3. Completar tarea 
+4. Salir  
+Selecciona una opción: 2
+
+LISTA DE TAREAS
+====================
+1. [✓] Hacer la prueba 
+2. [ ] Hacer ejercicio
